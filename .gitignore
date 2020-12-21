@@ -1,0 +1,17 @@
+# Keep these files out of the repo
+/wp-content/maintenance
+/wp-content/upgrade
+/wp-content/updraft
+/wp-content/uploads
+/wp-includes
+/wp-admin
+/sitemap.*
+/wp-config.php
+*.sql
+error_log
+
+# Hidden files
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
